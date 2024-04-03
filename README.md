@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>24/7 Voice Bot</title>
 </head>
 <body bgcolor="#2ECC71">
     <h1 style="color: chartreuse;">خوب اول از همه باید یکی از نسخه های پایتون زیر دانلود کنی</h1>
